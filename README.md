@@ -1,4 +1,4 @@
-# PDF Insight — AI Document Chat
+# DoChat — AI Document Chat
 
 A RAG (Retrieval-Augmented Generation) web platform that lets you chat with any PDF using Google Gemini AI.
 

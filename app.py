@@ -7,6 +7,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 app = Flask(__name__)
 
 PDF_NAME = "Best Buy FY2023 Annual Report"
+APP_NAME = "DoChat"
 
 def get_doc_count():
     try:
